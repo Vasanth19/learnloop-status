@@ -1,7 +1,7 @@
 url: https://backend-production-f52b.up.railway.app/health
-status: down
-code: 502
-responseTime: 15105
-lastUpdated: 2026-06-19T17:10:19.263Z
+status: up
+code: 200
+responseTime: 48
+lastUpdated: 2026-06-19T17:55:48.996Z
 startTime: 2026-05-23T21:37:41.093Z
 generator: Upptime <https://github.com/upptime/upptime>
