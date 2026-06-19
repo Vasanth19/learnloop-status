@@ -22,35 +22,39 @@
     "url": "https://backend-production-f52b.up.railway.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend-production-f52b.up.railway.app.ico",
     "slug": "backend-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 31,
-    "timeWeek": 445,
-    "timeMonth": 982,
-    "timeYear": 982,
-    "dailyMinutesDown": {}
+    "time": 1453,
+    "timeDay": 7568,
+    "timeWeek": 2278,
+    "timeMonth": 1453,
+    "timeYear": 1453,
+    "dailyMinutesDown": {
+      "2026-06-19": 1
+    }
   },
   {
     "name": "Backend Ready",
     "url": "https://backend-production-f52b.up.railway.app/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/backend-production-f52b.up.railway.app.ico",
     "slug": "backend-ready",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 102,
-    "timeWeek": 715,
-    "timeMonth": 1238,
-    "timeYear": 1238,
-    "dailyMinutesDown": {}
+    "time": 1700,
+    "timeDay": 7604,
+    "timeWeek": 2514,
+    "timeMonth": 1700,
+    "timeYear": 1700,
+    "dailyMinutesDown": {
+      "2026-06-19": 0
+    }
   }
 ]
