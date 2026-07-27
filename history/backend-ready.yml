@@ -1,7 +1,7 @@
 url: https://backend-production-f52b.up.railway.app/health/ready
 status: up
 code: 200
-responseTime: 157
-lastUpdated: 2026-07-26T23:56:57.428Z
+responseTime: 184
+lastUpdated: 2026-07-27T23:59:26.212Z
 startTime: 2026-05-23T21:37:41.578Z
 generator: Upptime <https://github.com/upptime/upptime>
