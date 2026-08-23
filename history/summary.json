@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 240,
-    "timeWeek": 206,
-    "timeMonth": 228,
-    "timeYear": 254,
+    "time": 253,
+    "timeDay": 177,
+    "timeWeek": 204,
+    "timeMonth": 227,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend-production-f52b.up.railway.app.ico",
     "slug": "backend-health",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 531,
-    "timeDay": 109,
-    "timeWeek": 101,
+    "uptimeYear": "99.97%",
+    "time": 526,
+    "timeDay": 24,
+    "timeWeek": 86,
     "timeMonth": 107,
-    "timeYear": 531,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2026-06-19": 46
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 806,
-    "timeDay": 181,
-    "timeWeek": 354,
-    "timeMonth": 379,
-    "timeYear": 806,
+    "time": 802,
+    "timeDay": 405,
+    "timeWeek": 338,
+    "timeMonth": 376,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2026-06-19": 45
     }
