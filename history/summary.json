@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 271,
-    "timeWeek": 257,
+    "time": 246,
+    "timeDay": 197,
+    "timeWeek": 259,
     "timeMonth": 224,
-    "timeYear": 247,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 422,
-    "timeDay": 292,
-    "timeWeek": 163,
-    "timeMonth": 107,
-    "timeYear": 422,
+    "time": 421,
+    "timeDay": 286,
+    "timeWeek": 198,
+    "timeMonth": 113,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2026-06-19": 46
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend-production-f52b.up.railway.app.ico",
     "slug": "backend-ready",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 706,
-    "timeDay": 265,
-    "timeWeek": 471,
-    "timeMonth": 425,
-    "timeYear": 706,
+    "uptimeYear": "99.98%",
+    "time": 703,
+    "timeDay": 269,
+    "timeWeek": 430,
+    "timeMonth": 428,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2026-06-19": 45
     }
